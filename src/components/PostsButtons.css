@@ -1,0 +1,18 @@
+.postsButtons{
+          display: flex;
+          align-items: center;
+          margin-right: 20px;
+          padding: 5px 10px;
+          border-radius: 10px;
+          transition: 0.5s ease;
+          cursor: pointer;
+}
+
+.postsButtons__Icon{
+          margin-right: 5px;
+          color: rgb(128, 128, 128);
+}
+
+.postsButtons:hover{
+          background: rgba(211, 211, 211, 0.367);
+}

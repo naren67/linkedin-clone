@@ -1,0 +1,45 @@
+.headerOptions__icon{
+          color: rgb(128, 128, 128);
+          cursor: pointer;
+         
+}
+
+
+.headerOptions__icon:hover{
+          color: black;
+}
+
+.headerOptions{
+          text-align: center;
+          color: rgba(128, 128, 128, 0.748);
+          display: inline-block;
+          margin-right: 20px;
+}
+
+.headerOptions:hover{
+          color: rgba(0, 0, 0, 0.748);
+}
+
+.headerOptions p{
+          font-size: 13px;
+}
+
+.premium{
+          color: rgb(199, 118, 13);
+          cursor: pointer;
+          display: block;
+          min-width: 100px;
+}
+
+.premium:hover{
+          color: black;
+          text-decoration: underline;
+}
+
+.headerOptions__avatarIcon{
+          width: 30px !important;
+          height: 30px !important;
+          cursor: pointer;
+}
+
+

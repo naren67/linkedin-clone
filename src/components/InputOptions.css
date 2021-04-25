@@ -1,0 +1,19 @@
+.inputOptions{
+          display: flex;
+          align-items: center;
+          margin-top: 15px;
+          cursor: pointer;
+          padding: 5px;
+          border-radius: 10px;
+          transition: 0.5s ease;
+}
+
+.inputOptions:hover{
+          background: rgba(211, 211, 211, 0.367);
+}
+
+.inputOptions p{
+          margin-left: 5px;
+          font-size: 13px;
+}
+
